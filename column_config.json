@@ -1,0 +1,42 @@
+{
+    "0": [],
+    "1": [
+        "identifier_pisbn"
+    ],
+    "2": [
+        "identifier_pisbn"
+    ],
+    "3": [
+        "identifier_doi"
+    ],
+    "4": [
+        "creator_institution",
+        "creator"
+    ],
+    "5": [
+        "identifier_standard"
+    ],
+    "6": [
+        "identifier_doi"
+    ],
+    "7": [
+        "identifier_standard"
+    ],
+    "8": [
+        "provider_subject"
+    ],
+    "9": [
+        "creator_institution"
+    ],
+    "10": [],
+    "11": [
+        "identifier_doi"
+    ],
+    "12": [
+        "source"
+    ],
+    "13": [],
+    "14": [
+        "date_created"
+    ]
+}
